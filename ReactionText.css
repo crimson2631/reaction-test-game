@@ -1,0 +1,15 @@
+#shape {
+    background-color: #00ffff;
+    height: 50px;
+    width: 50px;
+    margin: 250px 600px;
+    border-radius: 0%;
+    display:none;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+
+}
